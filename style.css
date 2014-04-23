@@ -16,7 +16,7 @@ p {
 	font-family: Arial;
 }
 
-p {
+p.other-text {
 	font-family: cursive;
 }
 
