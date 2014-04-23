@@ -9,3 +9,17 @@ h1, h2, h3, h4, h5, h6 {
 p {
 	font-family: Arial;
 }
+
+p {
+	font-family: cursive;
+}
+
+div.foo {
+	background-color: purple;
+	padding: 36px;
+	margin: 18px;
+}
+
+div.bar {
+
+}
