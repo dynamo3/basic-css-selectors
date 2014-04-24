@@ -1,7 +1,7 @@
 /*Keep the generic elements in the beginning*/
 
 body {
-	background-color: blue;
+	background-color: purple;
 }
 
 h1, h2, h3, h4, h5, h6, p {
@@ -23,7 +23,7 @@ p.other-text {
 /*Organize your custom classes down below*/
 
 div.foo {
-	background-color: purple;
+	background-color: blue;
 	padding: 36px;
 	margin: 18px;
 }
